@@ -143,33 +143,33 @@
                     <div class="row">
 
                         <div class="col-md-6">
-                            <a href="_img/fotograf-01.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/fotograf-01-min.jpg" alt="Sklep 1" /></a>
-                            <a href="_img/fotograf-02.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/fotograf-02-min.jpg" alt="Sklep 2" /></a>
-                            <a href="_img/fotograf-03.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/fotograf-03-min.jpg" alt="Sklep 3" /></a>
-                            <a href="_img/fotograf-04.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/fotograf-04-min.jpg" alt="Sklep 4" /></a>
-                            <a href="_img/fotograf-05.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/fotograf-05-min.jpg" alt="Sklep 5" /></a>
-                            <a href="_img/fotograf-06.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/fotograf-06-min.jpg" alt="Sklep 6" /></a>
+                            <a href="_img/photos/fotograf-01.jpg" data-lightbox="sklep"><img class="shop-image"
+                                    src="_img/photos/fotograf-01-min.jpg" alt="Sklep 1" /></a>
+                            <a href="_img/photos/fotograf-02.jpg" data-lightbox="sklep"><img class="shop-image"
+                                    src="_img/photos/fotograf-02-min.jpg" alt="Sklep 2" /></a>
+                            <a href="_img/photos/fotograf-03.jpg" data-lightbox="sklep"><img class="shop-image"
+                                    src="_img/photos/fotograf-03-min.jpg" alt="Sklep 3" /></a>
+                            <a href="_img/photos/fotograf-04.jpg" data-lightbox="sklep"><img class="shop-image"
+                                    src="_img/photos/fotograf-04-min.jpg" alt="Sklep 4" /></a>
+                            <a href="_img/photos/fotograf-05.jpg" data-lightbox="sklep"><img class="shop-image"
+                                    src="_img/photos/fotograf-05-min.jpg" alt="Sklep 5" /></a>
+                            <a href="_img/photos/fotograf-06.jpg" data-lightbox="sklep"><img class="shop-image"
+                                    src="_img/photos/fotograf-06-min.jpg" alt="Sklep 6" /></a>
 
                         </div>
                         <div class="col-md-6">
-                            <a href="_img/fotograf-07.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/fotograf-07-min.jpg" alt="Sklep 7" /></a>
-                            <a href="_img/fotograf-08.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/fotograf-08-min.jpg" alt="Sklep 8" /></a>
-                            <a href="_img/fotograf-09.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/fotograf-09-min.jpg" alt="Sklep 9" /></a>
-                            <a href="_img/fotograf-10.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/fotograf-10-min.jpg" alt="Sklep 10" /></a>
-                            <a href="_img/fotograf-11.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/fotograf-11-min.jpg" alt="Sklep 11" /></a>
-                            <a href="_img/fotograf-12.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/fotograf-12-min.jpg" alt="Sklep 12" /></a>
+                            <a href="_img/photos/fotograf-07.jpg" data-lightbox="sklep"><img class="shop-image"
+                                    src="_img/photos/fotograf-07-min.jpg" alt="Sklep 7" /></a>
+                            <a href="_img/photos/fotograf-08.jpg" data-lightbox="sklep"><img class="shop-image"
+                                    src="_img/photos/fotograf-08-min.jpg" alt="Sklep 8" /></a>
+                            <a href="_img/photos/fotograf-09.jpg" data-lightbox="sklep"><img class="shop-image"
+                                    src="_img/photos/fotograf-09-min.jpg" alt="Sklep 9" /></a>
+                            <a href="_img/photos/fotograf-10.jpg" data-lightbox="sklep"><img class="shop-image"
+                                    src="_img/photos/fotograf-10-min.jpg" alt="Sklep 10" /></a>
+                            <a href="_img/photos/fotograf-11.jpg" data-lightbox="sklep"><img class="shop-image"
+                                    src="_img/photos/fotograf-11-min.jpg" alt="Sklep 11" /></a>
+                            <a href="_img/photos/fotograf-12.jpg" data-lightbox="sklep"><img class="shop-image"
+                                    src="_img/photos/fotograf-12-min.jpg" alt="Sklep 12" /></a>
 
                         </div>
                     </div>

@@ -21,7 +21,7 @@
               <div class="col-md-6">
                   <div class="block-16">
                       <figure>
-                          <img src="_img/fotograf-02.jpg" alt="Image placeholder" class="img-fluid rounded">
+                          <img src="_img/photos/fotograf-02.jpg" alt="Image placeholder" class="img-fluid rounded">
 
 
                       </figure>
@@ -169,7 +169,7 @@
                   <div class="block-38 text-center">
                       <div class="block-38-img">
                           <div class="block-38-header">
-                              <img src="_img/baterie2.jpg" alt="Image placeholder" class="mb-4">
+                              <img src="_img/baterie.jpg" alt="Image placeholder" class="mb-4">
                               <h3 class="block-38-heading h4">Wymiana baterii</h3>
                               <p class="block-38-subheading"></p>
                           </div>
@@ -185,7 +185,7 @@
                   <div class="block-38 text-center">
                       <div class="block-38-img">
                           <div class="block-38-header">
-                              <img src="_img/paski_skora.jpg" alt="Image placeholder" class="mb-4">
+                              <img src="_img/paski.jpg" alt="Image placeholder" class="mb-4">
                               <h3 class="block-38-heading h4">Wymiana pasków i bransolet</h3>
                               <p class="block-38-subheading"></p>
                           </div>

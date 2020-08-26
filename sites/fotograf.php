@@ -53,7 +53,7 @@
             <div class="col-md-6">
                 <div class="block-16">
                     <figure>
-                        <img src="_img/fotograf-12.jpg" alt="Image placeholder" class="img-fluid rounded">
+                        <img src="_img/photos/fotograf-12.jpg" alt="Image placeholder" class="img-fluid rounded">
 
                     </figure>
                 </div>
@@ -118,7 +118,7 @@
                 <div class="block-38 text-center">
                     <div class="block-38-img">
                         <div class="block-38-header">
-                            <img src="_img/chrzest.jpg" alt="Image placeholder" class="mb-4">
+                            <img src="_img/chrzciny.jpg" alt="Image placeholder" class="mb-4">
                             <h3 class="block-38-heading h4">Chrzty</h3>
                             <p class="block-38-subheading">Tych małych i większych</p>
                         </div>
@@ -133,7 +133,7 @@
                 <div class="block-38 text-center">
                     <div class="block-38-img">
                         <div class="block-38-header">
-                            <img src="_img/osiemnastka.jpg" alt="Image placeholder" class="mb-4">
+                            <img src="_img/osiemnastki.jpg" alt="Image placeholder" class="mb-4">
                             <h3 class="block-38-heading h4">Osiemnastki</h3>
                             <p class="block-38-subheading">I Inne imprezy</p>
                         </div>

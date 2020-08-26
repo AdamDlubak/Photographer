@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: www.sklep.fotodlubak.pl/sitemap.xml
+Sitemap: https://www.sklep.fotodlubak.pl/sitemap.xml

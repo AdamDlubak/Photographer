@@ -4,19 +4,13 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-    <title>Fotograf Pajęczno - Zdjęcia legitymacyjne i do dokumentów, odbitki i skany - najwyższa jakość | Ryszard Dłubak</title>
+    <title>Kontakt - Skontaktuj się z nami już teraz | Fotograf Ryszard Dłubak</title>
 
-    <meta name="description" content="Duet fotografów ślubnych - Adam i Ryszard Dłubak. Profesjonalna i naturalna fotografia na ślub i wesele: Pajęczno, Działoszyn, Częstochowa, Wieluń, Radomsko.">
-    <meta name="keywords" content="fotograf, fotografia, łódzkie, śląskie, ślub, wesele, Pajęczno, Działoszyn, Częstochowa, Wieluń, Radomsko">
+    <meta name="description" content="Napisz lub zadzwoń do nas by dopytać o nasze usługi lub asortyment. Nasz sklep znajduje się w samym centrum Pajęczna.">
+    <meta name="keywords" content="fotograf, fotografia, zegarki, albumy, ramki, telefony, paski do zegarków, baterie, odbitki, zdjęcia legitymacyjne, zdjęcia do dokumentów, łódzkie, Pajęczno, Działoszyn, Siemkowice, Rząśnia">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://www.sklep.fotodlubak.pl" />
-    <meta property="og:title" content="Przepiękna pamiątka z Waszego ślubu w zasięgu ręki" />
-    <meta property="og:description" content="Pokażemy Waszą historię naszymi zdjęciami. Wspólnie stworzymy cudowną pamiątkę o której marzycie!" />
-    <meta property="og:locale" content="pl_PL" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://sklep.fotodlubak.pl" />
-    <meta property="og:image" content="https://i.imgur.com/FQPFnEj.jpg" />
-    <meta property="fb:app_id" content="832744753803702" />
+    <link rel="canonical" href="https://www.sklep.fotodlubak.pl/kontakt" />
+    
     <!-- ______________________ Head ______________________ -->
     <?php require_once("elements/header-scripts.php") ?>
     <link type="text/css" rel="stylesheet" href="./_css/validation.css">
