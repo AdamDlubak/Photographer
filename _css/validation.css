@@ -1,0 +1,153 @@
+/* TextField */
+
+.form-response-success {
+    color: #45bb37;
+    font-weight: bold;
+    text-align: center;
+}
+
+.form-response-faild {
+    color: #ff3434;
+    font-weight: bold;
+    text-align: center;
+}
+
+.textfieldRequiredMsg,
+.textfieldInvalidFormatMsg,
+.textfieldMinValueMsg,
+.textfieldMaxValueMsg,
+.textfieldMinCharsMsg,
+.textfieldMaxCharsMsg,
+.textfieldValidMsg {
+    display: none;
+}
+
+.textfieldRequiredState .textfieldRequiredMsg,
+.textfieldInvalidFormatState .textfieldInvalidFormatMsg,
+.textfieldMinValueState .textfieldMinValueMsg,
+.textfieldMaxValueState .textfieldMaxValueMsg,
+.textfieldMinCharsState .textfieldMinCharsMsg,
+.textfieldMaxCharsState .textfieldMaxCharsMsg {
+    background: none;
+    width: 100%;
+    height: 33px;
+    display: block;
+    color: #fff;
+    float: right;
+    margin-bottom: 10px;
+    padding: 0 auto;
+    text-align: left;
+    line-height: 34px;
+    color: #ff3434;
+    padding-left: 5px;
+}
+
+.textfieldValidState input,
+input.textfieldValidState {
+    border: 1px solid #B8F5B1;
+}
+
+input.textfieldRequiredState,
+.textfieldRequiredState input,
+input.textfieldInvalidFormatState,
+.textfieldInvalidFormatState input,
+input.textfieldMinValueState,
+.textfieldMinValueState input,
+input.textfieldMaxValueState,
+.textfieldMaxValueState input,
+input.textfieldMinCharsState,
+.textfieldMinCharsState input,
+input.textfieldMaxCharsState,
+.textfieldMaxCharsState input {
+    border: 1px solid #FF9F9F;
+}
+
+.textfieldFocusState input,
+input.textfieldFocusState {
+    border: 1px solid #FF9F9F;
+
+}
+
+.textfieldFlashText input,
+input.textfieldFlashText {
+    color: #FF9F9F !important;
+}
+
+.textfieldHintState input,
+input.textfieldHintState {}
+
+
+/* Textarea */
+
+.textareaRequiredMsg,
+.textareaMinCharsMsg,
+.textareaMaxCharsMsg,
+.textareaValidMsg {
+    display: none;
+}
+
+.textareaRequiredState .textareaRequiredMsg,
+.textareaMinCharsState .textareaMinCharsMsg,
+.textareaMaxCharsState .textareaMaxCharsMsg {
+    background: none;
+    width: 100%;
+    height: 33px;
+    display: block;
+    color: #fff;
+    float: right;
+    margin-bottom: 10px;
+    padding: 0 auto;
+    text-align: left;
+    line-height: 34px;
+    color: #ff3434;
+    padding-left: 5px;
+}
+
+
+/* Select */
+
+.selectRequiredMsg,
+.selectInvalidMsg {
+    display: none;
+}
+
+.selectRequiredState .selectRequiredMsg,
+.selectInvalidState .selectInvalidMsg {
+    background: url(../_img/validation.png) top left no-repeat;
+    width: 297px;
+    height: 33px;
+    display: block;
+    color: #fff;
+    float: right;
+    margin: -5px 82px 0 0;
+    padding: 0 auto;
+    text-align: center;
+    line-height: 34px;
+}
+
+
+/* Confirm */
+
+.confirmRequiredMsg,
+.confirmInvalidMsg,
+.confirmValidMsg {
+    display: none;
+}
+
+.confirmRequiredState .confirmRequiredMsg,
+.confirmInvalidState .confirmInvalidMsg {
+    background: none;
+    width: 100%;
+    height: 33px;
+    display: block;
+    color: #fff;
+    float: right;
+    margin-bottom: 10px;
+    padding: 0 auto;
+    text-align: left;
+    line-height: 34px;
+    color: #F00;
+    font-weight: bold;
+    padding-left: 5px;
+    margin-top: -15px;
+}
