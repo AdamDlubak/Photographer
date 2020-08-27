@@ -382,9 +382,10 @@ a {
         .site-mobile-menu .site-mobile-menu-header .site-mobile-menu-close span:hover {
           color: #25262a; }
     .site-mobile-menu .site-mobile-menu-header .site-mobile-menu-logo {
-      float: left;
-      margin-top: 10px;
-      margin-left: 20px; }
+      margin-top: 40px;
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center; }
       .site-mobile-menu .site-mobile-menu-header .site-mobile-menu-logo a {
         display: inline-block;
         text-transform: uppercase;
@@ -393,7 +394,7 @@ a {
         font-size: 20px;
         padding-left: 10px;
         padding-right: 10px;
-        border: 2px solid #25262a; }
+        border: 0 }
         .site-mobile-menu .site-mobile-menu-header .site-mobile-menu-logo a:hover {
           text-decoration: none; }
   .site-mobile-menu .site-mobile-menu-body {
@@ -932,6 +933,12 @@ a {
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%); }
+    .product-item.sm-height {
+      height: 225px;
+      padding: 0px; }
+    .product-item.md-height {
+      height: 400px;
+      padding: 40px; }
     .product-item .product-category span {
       color: #ced4da;
       font-size: 12px; }
@@ -942,18 +949,37 @@ a {
         color: rgba(255, 255, 255, 0.5); }
   .product-item.full-height {
     height: 480px !important; }
+    @media (max-width: 1199.98px) {
+      .product-item.full-height {
+        height: 410px !important;
+        margin-bottom: 30px; } 
+        .product-item.sm-height {
+          height: 190px;
+          padding: 0px; }}
     @media (max-width: 991.98px) {
       .product-item.full-height {
         height: 300px !important;
-        margin-bottom: 30px; } }
+        margin-bottom: 30px; } 
+        .product-item .product-category {
+          top: 82%;
+        }
+        .product-item.sm-height {
+          height: 300px;
+          padding: 0px; }}
+          @media (max-width: 767.98px) {
+            .product-item .product-category {
+              top: 82%;
+            }
+            .product-item.full-height {
+              height: 225px !important;
+              margin-bottom: 30px; } 
+              .product-item.sm-height {
+                height: 225px;
+                padding: 0px; }}
+    
   .product-item.bg-gray {
     background: #f9f9f9; }
-  .product-item.sm-height {
-    height: 225px;
-    padding: 0px; }
-  .product-item.md-height {
-    height: 400px;
-    padding: 40px; }
+
   /* .product-item img {
     left: 50%;
     top: 15%;

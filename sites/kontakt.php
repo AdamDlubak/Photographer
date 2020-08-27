@@ -108,7 +108,7 @@
                     <p class="mb-0">Nr konta: 04 1020 3958 0000 9602 0123 8724</p>
                 </div>
 
-                <div class="p-4 border mb-3">
+                <div class="p-4 border mb-3" id="godziny">
                     <span class="d-block text-primary h6 text-uppercase">Godziny otwarcia</span>
                     <p class="mb-0">Poniedziałek - Piątek: 9.00 - 17.00</p>
                     <p class="mb-0">Sobota: 9.00 - 14.00</p>
@@ -144,32 +144,32 @@
 
                         <div class="col-md-6">
                             <a href="_img/photos/fotograf-01.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/photos/fotograf-01-min.jpg" alt="Sklep 1" /></a>
+                                    src="_img/photos/fotograf-01-min.jpg" alt="Sklep z zewnątrz" /></a>
                             <a href="_img/photos/fotograf-02.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/photos/fotograf-02-min.jpg" alt="Sklep 2" /></a>
+                                    src="_img/photos/fotograf-02-min.jpg" alt="Sklep z zewnątrz z boku lewego" /></a>
                             <a href="_img/photos/fotograf-03.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/photos/fotograf-03-min.jpg" alt="Sklep 3" /></a>
+                                    src="_img/photos/fotograf-03-min.jpg" alt="Sklep z zewnątrz z boku prawego" /></a>
                             <a href="_img/photos/fotograf-04.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/photos/fotograf-04-min.jpg" alt="Sklep 4" /></a>
+                                    src="_img/photos/fotograf-04-min.jpg" alt="Sklep z perspektywy wejścia" /></a>
                             <a href="_img/photos/fotograf-05.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/photos/fotograf-05-min.jpg" alt="Sklep 5" /></a>
+                                    src="_img/photos/fotograf-05-min.jpg" alt="Sklep ze środka z widokiem na zewnątrz" /></a>
                             <a href="_img/photos/fotograf-06.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/photos/fotograf-06-min.jpg" alt="Sklep 6" /></a>
+                                    src="_img/photos/fotograf-06-min.jpg" alt="Zakład - maszyna Frontier" /></a>
 
                         </div>
                         <div class="col-md-6">
                             <a href="_img/photos/fotograf-07.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/photos/fotograf-07-min.jpg" alt="Sklep 7" /></a>
+                                    src="_img/photos/fotograf-07-min.jpg" alt="Sklep, część z artykułami fotograficznymi" /></a>
                             <a href="_img/photos/fotograf-08.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/photos/fotograf-08-min.jpg" alt="Sklep 8" /></a>
+                                    src="_img/photos/fotograf-08-min.jpg" alt="Sklep, gabloty z zegarkami" /></a>
                             <a href="_img/photos/fotograf-09.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/photos/fotograf-09-min.jpg" alt="Sklep 9" /></a>
+                                    src="_img/photos/fotograf-09-min.jpg" alt="Sklep od strony okna" /></a>
                             <a href="_img/photos/fotograf-10.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/photos/fotograf-10-min.jpg" alt="Sklep 10" /></a>
+                                    src="_img/photos/fotograf-10-min.jpg" alt="Odbitki zdjęć" /></a>
                             <a href="_img/photos/fotograf-11.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/photos/fotograf-11-min.jpg" alt="Sklep 11" /></a>
+                                    src="_img/photos/fotograf-11-min.jpg" alt="Zdjęcie legitymacyjne z opakowaniem" /></a>
                             <a href="_img/photos/fotograf-12.jpg" data-lightbox="sklep"><img class="shop-image"
-                                    src="_img/photos/fotograf-12-min.jpg" alt="Sklep 12" /></a>
+                                    src="_img/photos/fotograf-12-min.jpg" alt="Zdjęcie do dokumentów w etui" /></a>
 
                         </div>
                     </div>

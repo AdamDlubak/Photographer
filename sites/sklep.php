@@ -37,7 +37,7 @@
                   <p style="text-align: justify;">Nasz sklep powstał ponad 25 lat temu. Jesteśmy firmą z wieloletnim doświadczeniem i historią.
                     Poza punktem fotograficznym, w naszym sklepie oferujemy bardzo szeroki asortyment m.in. w wyborze zegarków, baterii, akcesoriów fotograficznych, telefonów, czy też biżuterii srebrnej i portfeli.</p>
                   <p style="text-align: justify;">Świadczymy również usługi wymiany pasków i bransolet w zegarkach, a także wymiany baterii w różnego rodzaju elektronice od pilotów samochodowych poprzez aparaty słuchowe również na zegarkach kończąc.</p>
-                  <p style="text-align: justify;">Wybierając nasz sklep mogą być Państwo pewniu uzyskania fachowego doradztwa i obsługi w zakresie oferowanych przez nas usług i asortymentu.</p>
+                  <p style="text-align: justify;">Wybierając nasz sklep mogą być Państwo pewni uzyskania fachowego doradztwa i obsługi w zakresie oferowanych przez nas usług i asortymentu.</p>
               </div>
           </div>
       </div>
@@ -49,7 +49,7 @@
           <div class="row">
               <div class="col-md-6 col-lg-4 d-lg-flex mb-4 mb-lg-0 pl-4" data-aos="fade-up" data-aos-delay="">
                   <div class="icon mr-4 align-self-start">
-                      <img src="_img/icons/clock.svg" class="svg" alt="" style="width: 70px; height: 100px;">
+                      <img src="_img/icons/clock.svg" class="svg" alt="Zegarki" style="width: 70px; height: 100px;">
                   </div>
                   <div class="text">
                       <h2 class="text-uppercase" style="border-left: 2px solid #cf0731; padding-left: 10px;">Zegarki
@@ -60,7 +60,7 @@
               </div>
               <div class="col-md-6 col-lg-4 d-lg-flex mb-4 mb-lg-0 pl-4" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon mr-4 align-self-start">
-                      <img src="_img/icons/frame.svg" alt="" style="width: 70px; height: 100px;">
+                      <img src="_img/icons/frame.svg" alt="Albumy, ramki, antyramy" style="width: 70px; height: 100px;">
                   </div>
                   <div class="text">
                       <h2 class="text-uppercase" style="border-left: 2px solid #cf0731; padding-left: 10px;">Albumy,
@@ -71,7 +71,7 @@
               </div>
               <div class="col-md-6 col-lg-4 d-lg-flex mb-4 mb-lg-0 pl-4" data-aos="fade-up" data-aos-delay="200">
                   <div class="icon mr-4 align-self-start">
-                      <img src="_img/icons/battery.svg" alt="" style="width: 70px; height: 100px;">
+                      <img src="_img/icons/battery.svg" alt="Baterie" style="width: 70px; height: 100px;">
 
                   </div>
                   <div class="text">
@@ -86,7 +86,7 @@
           <div class="row" style="margin-top: 50px;">
               <div class="col-md-6 col-lg-4 d-lg-flex mb-4 mb-lg-0 pl-4" data-aos="fade-up" data-aos-delay="">
                   <div class="icon mr-4 align-self-start">
-                      <img src="_img/icons/pendrive.svg" alt="" style="width: 70px; height: 100px;">
+                      <img src="_img/icons/pendrive.svg" alt="Nośniki pamięci" style="width: 70px; height: 100px;">
 
                   </div>
                   <div class="text">
@@ -97,17 +97,17 @@
               </div>
               <div class="col-md-6 col-lg-4 d-lg-flex mb-4 mb-lg-0 pl-4" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon mr-4 align-self-start">
-                      <img src="_img/icons/phone.svg" alt="" style="width: 70px; height: 100px;">
+                      <img src="_img/icons/phone.svg" alt="Telefony" style="width: 70px; height: 100px;">
                   </div>
                   <div class="text">
                       <h2 class="text-uppercase" style="border-left: 2px solid #cf0731; padding-left: 10px;">Telefony
                       </h2>
-                      <p>Telefony klastyczne z klawiaturą jak i nowoczesne smartfony. Od modeli eleganckich, aż po urządzenia do pracy w najtrudniejszych warunkach.</p>
+                      <p>Telefony stacjonarne, klastyczne z klawiaturą jak i nowoczesne smartfony. Od modeli eleganckich, aż po urządzenia do pracy w najtrudniejszych warunkach.</p>
                   </div>
               </div>
               <div class="col-md-6 col-lg-4 d-lg-flex mb-4 mb-lg-0 pl-4" data-aos="fade-up" data-aos-delay="200">
                   <div class="icon mr-4 align-self-start">
-                      <img src="_img/icons/jewellery.svg" alt="" style="width: 70px; height: 100px;">
+                      <img src="_img/icons/jewellery.svg" alt="Srebro" style="width: 70px; height: 100px;">
 
                   </div>
                   <div class="text">
@@ -120,7 +120,7 @@
           <div class="row" style="margin-top: 50px;">
               <div class="col-md-6 col-lg-4 d-lg-flex mb-4 mb-lg-0 pl-4" data-aos="fade-up" data-aos-delay="">
                   <div class="icon mr-4 align-self-start">
-                      <img src="_img/icons/camera.svg" alt="" style="width: 70px; height: 100px;">
+                      <img src="_img/icons/camera.svg" alt="Aparaty Cyfrowe" style="width: 70px; height: 100px;">
 
                   </div>
                   <div class="text">
@@ -131,7 +131,7 @@
               </div>
               <div class="col-md-6 col-lg-4 d-lg-flex mb-4 mb-lg-0 pl-4" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon mr-4 align-self-start">
-                      <img src="_img/icons/wallet.svg" alt="" style="width: 70px; height: 100px;">
+                      <img src="_img/icons/wallet.svg" alt="Portfele" style="width: 70px; height: 100px;">
                   </div>
                   <div class="text">
                       <h2 class="text-uppercase" style="border-left: 2px solid #cf0731; padding-left: 10px;">Portfele
@@ -141,7 +141,7 @@
               </div>
               <div class="col-md-6 col-lg-4 d-lg-flex mb-4 mb-lg-0 pl-4" data-aos="fade-up" data-aos-delay="200">
                   <div class="icon mr-4 align-self-start">
-                      <img src="_img/icons/perfume.svg" alt="" style="width: 70px; height: 100px;">
+                      <img src="_img/icons/perfume.svg" alt="Kosmetyki" style="width: 70px; height: 100px;">
                   </div>
                   <div class="text">
                       <h2 class="text-uppercase" style="border-left: 2px solid #cf0731; padding-left: 10px;">Kosmetyki
@@ -169,7 +169,7 @@
                   <div class="block-38 text-center">
                       <div class="block-38-img">
                           <div class="block-38-header">
-                              <img src="_img/baterie.jpg" alt="Image placeholder" class="mb-4">
+                              <img src="_img/baterie.jpg" alt="Wymiana baterii" class="mb-4">
                               <h3 class="block-38-heading h4">Wymiana baterii</h3>
                               <p class="block-38-subheading"></p>
                           </div>
@@ -185,7 +185,7 @@
                   <div class="block-38 text-center">
                       <div class="block-38-img">
                           <div class="block-38-header">
-                              <img src="_img/paski.jpg" alt="Image placeholder" class="mb-4">
+                              <img src="_img/paski.jpg" alt="Wymiana pasków i bransolet" class="mb-4">
                               <h3 class="block-38-heading h4">Wymiana pasków i bransolet</h3>
                               <p class="block-38-subheading"></p>
                           </div>

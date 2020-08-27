@@ -3,7 +3,7 @@
         <div class="d-flex align-items-center justify-content-between">
             <div class="logo">
                 <div class="">
-                    <a href="./" class="js-logo-clone"><img src="./_img/logo.png" alt="FotoDłubak - Logo"></a>
+                    <a href="./" class="js-logo-clone"><img src="./_img/logo.png" style="width: 160px; padding: 5px 0;" alt="FotoDłubak - Logo"></a>
                 </div>
             </div>
             <div class="main-nav d-none d-lg-block">
